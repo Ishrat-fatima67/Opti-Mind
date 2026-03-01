@@ -1,3 +1,6 @@
+# **Live Demo**
+https://opti-mind-mu.vercel.app/
+
 # **OptiMind – Social Energy & Wellbeing Optimizer** 🚀
 
 ---
