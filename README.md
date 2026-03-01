@@ -8,9 +8,7 @@
 - [Tech Stack](#tech-stack-🛠)
 - [Installation & Setup](#installation--setup-💻)
 - [Usage](#usage-🚀)
-- [Screenshots](#screenshots-🖼)
 - [Contributing](#contributing-🤝)
-- [License](#license-⚖️)
 - [Contact](#contact-📬)
 
 ---
